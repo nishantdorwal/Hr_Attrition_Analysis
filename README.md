@@ -1,4 +1,4 @@
-# HR Attrition Prediction 🚀
+# HR Attrition Analysis 🚀
 
 Predict whether an employee is likely to leave the company using machine learning and Streamlit.
 
